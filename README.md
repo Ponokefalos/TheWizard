@@ -1,3 +1,6 @@
+# Demo 
+
+Check out the demo <a href="http://project-vue-wizard.azurewebsites.net/">here</a>
 # Vue - Wizard
 
 Vue-wizard is a Vue component that creates a step  by step wizard fast and easy. 
@@ -8,10 +11,10 @@ The wizard module loads components dynamically. Every time that a step tab is cl
 that loads the corresponding dynamic component from a list of components. In that way you can easily create new components and just
 add them to the list without any other configuration!
 
-#Use 
+# Use 
 
 Clone repo and build upon the project. Just add your own tab components and add the refference to Wizard.vue component.
 
 
-#ToDo
+# ToDo
 Create npm library
