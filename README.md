@@ -1,6 +1,6 @@
 # Demo 
 
-Check out the demo <a href="http://project-vue-wizard.azurewebsites.net/">here</a>
+Check out the demo <a target="_blank" href="http://project-vue-wizard.azurewebsites.net/">here</a>
 # Vue - Wizard
 
 Vue-wizard is a Vue component that creates a step  by step wizard fast and easy. 
